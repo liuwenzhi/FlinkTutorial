@@ -1,0 +1,10 @@
+Mary, ./home, 1000
+Tom, ./link?id=123, 2000
+Jack, ./baidu/123, 3000
+Cat, ./google/456, 2000
+Alice, ./alibaba/789, 1000
+Hans, ./biying, 1000
+Lina, ./zhihu?page=123, 2000
+Lucy, ./bokeyuan/123, 3000
+Linda, ./shuimuqinghua/456, 2000
+Robin, ./sanlitun?sex=women, 1000
