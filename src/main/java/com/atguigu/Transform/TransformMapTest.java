@@ -7,7 +7,7 @@ import org.apache.flink.streaming.api.datastream.SingleOutputStreamOperator;
 import org.apache.flink.streaming.api.environment.StreamExecutionEnvironment;
 
 /**
- * 测试map算子
+ * 课程1：测试map算子
  */
 public class TransformMapTest {
     public static void main(String[] args) throws Exception {
